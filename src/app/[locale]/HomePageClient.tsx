@@ -31,6 +31,7 @@ import { getPreferredMobileBannerSelection } from "@/components/ads/mobileAdConf
 import { scrollToSection } from "@/lib/scrollToSection";
 import { DynamicIcon } from "@/components/ui/DynamicIcon";
 import type { ContentItemWithType } from "@/lib/getLatestArticles";
+import type { ModuleLinkMap } from "@/lib/buildModuleLinkMap";
 
 // Lazy load heavy components
 const HeroStats = lazy(() => import("@/components/home/HeroStats"));
@@ -44,22 +45,44 @@ const LoadingPlaceholder = ({ height = "h-64" }: { height?: string }) => (
   />
 );
 
-// Module header with distinct icon + title + intro (no internal links)
+// Module header with distinct icon + title + intro (h2 links to article when matched)
 function ModuleHeader({
   icon: Icon,
   title,
   intro,
+  linkData,
+  locale,
 }: {
   icon: LucideIcon;
   title: string;
   intro: string;
+  linkData?: { url: string; title: string } | null;
+  locale: string;
 }) {
+  const titleHref =
+    linkData && linkData.url
+      ? locale === "en"
+        ? linkData.url
+        : `/${locale}${linkData.url}`
+      : null;
   return (
     <div className="mb-8 text-center md:mb-12 scroll-reveal">
       <div className="mb-3 inline-flex h-12 w-12 items-center justify-center rounded-xl bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] md:mb-4 md:h-14 md:w-14">
         <Icon className="h-6 w-6 text-[hsl(var(--nav-theme-light))] md:h-7 md:w-7" />
       </div>
-      <h2 className="text-3xl font-bold md:text-5xl">{title}</h2>
+      <h2 className="text-3xl font-bold md:text-5xl">
+        {titleHref ? (
+          <Link
+            href={titleHref}
+            title={linkData?.title}
+            className="hover:text-[hsl(var(--nav-theme-light))] hover:underline decoration-[hsl(var(--nav-theme-light))/0.4] underline-offset-4 transition-colors"
+          >
+            {title}
+          </Link>
+        ) : (
+          title
+        )}
+      </h2>
       <p className="mx-auto mt-3 max-w-3xl text-base text-muted-foreground md:mt-4 md:text-lg">
         {intro}
       </p>
@@ -100,11 +123,13 @@ const TIER_STYLES: Record<string, string> = {
 interface HomePageClientProps {
   latestArticles: ContentItemWithType[];
   locale: string;
+  moduleLinkMap: ModuleLinkMap;
 }
 
 export default function HomePageClient({
   latestArticles,
   locale,
+  moduleLinkMap,
 }: HomePageClientProps) {
   const t = useMessages() as any;
   const siteUrl =
@@ -354,6 +379,8 @@ export default function HomePageClient({
             icon={Ticket}
             title={t.modules.thaBronx3Codes.title}
             intro={t.modules.thaBronx3Codes.intro}
+            linkData={moduleLinkMap["thaBronx3Codes"]}
+            locale={locale}
           />
           <div className="grid grid-cols-1 gap-4 scroll-reveal md:grid-cols-2">
             {t.modules.thaBronx3Codes.cards.map((card: any, index: number) => {
@@ -409,6 +436,8 @@ export default function HomePageClient({
             icon={Compass}
             title={t.modules.thaBronx3BeginnerGuide.title}
             intro={t.modules.thaBronx3BeginnerGuide.intro}
+            linkData={moduleLinkMap["thaBronx3BeginnerGuide"]}
+            locale={locale}
           />
           <div className="space-y-3 scroll-reveal md:space-y-4">
             {t.modules.thaBronx3BeginnerGuide.steps.map(
@@ -449,6 +478,8 @@ export default function HomePageClient({
             icon={Coins}
             title={t.modules.thaBronx3MoneyAndJobs.title}
             intro={t.modules.thaBronx3MoneyAndJobs.intro}
+            linkData={moduleLinkMap["thaBronx3MoneyAndJobs"]}
+            locale={locale}
           />
           {/* Desktop table */}
           <div className="scroll-reveal hidden overflow-hidden rounded-xl border border-border md:block">
@@ -540,6 +571,8 @@ export default function HomePageClient({
             icon={Crosshair}
             title={t.modules.thaBronx3WeaponsTierList.title}
             intro={t.modules.thaBronx3WeaponsTierList.intro}
+            linkData={moduleLinkMap["thaBronx3WeaponsTierList"]}
+            locale={locale}
           />
           <div className="space-y-6 scroll-reveal">
             {t.modules.thaBronx3WeaponsTierList.tiers.map(
@@ -597,6 +630,8 @@ export default function HomePageClient({
             icon={ShoppingBag}
             title={t.modules.thaBronx3StoreGuide.title}
             intro={t.modules.thaBronx3StoreGuide.intro}
+            linkData={moduleLinkMap["thaBronx3StoreGuide"]}
+            locale={locale}
           />
           <div className="grid grid-cols-1 gap-4 scroll-reveal md:grid-cols-2 lg:grid-cols-3">
             {t.modules.thaBronx3StoreGuide.passes.map(
@@ -657,6 +692,8 @@ export default function HomePageClient({
             icon={MapPinned}
             title={t.modules.thaBronx3MapGuide.title}
             intro={t.modules.thaBronx3MapGuide.intro}
+            linkData={moduleLinkMap["thaBronx3MapGuide"]}
+            locale={locale}
           />
           <div className="grid grid-cols-1 gap-4 scroll-reveal md:grid-cols-2 lg:grid-cols-3">
             {t.modules.thaBronx3MapGuide.locations.map(
@@ -696,6 +733,8 @@ export default function HomePageClient({
             icon={Car}
             title={t.modules.thaBronx3CarsAndStorage.title}
             intro={t.modules.thaBronx3CarsAndStorage.intro}
+            linkData={moduleLinkMap["thaBronx3CarsAndStorage"]}
+            locale={locale}
           />
           <div className="grid grid-cols-1 gap-4 scroll-reveal md:grid-cols-2">
             {t.modules.thaBronx3CarsAndStorage.vehicles.map(
@@ -742,6 +781,8 @@ export default function HomePageClient({
             icon={Newspaper}
             title={t.modules.thaBronx3OfficialLinks.title}
             intro={t.modules.thaBronx3OfficialLinks.intro}
+            linkData={moduleLinkMap["thaBronx3OfficialLinks"]}
+            locale={locale}
           />
           <div className="space-y-3 scroll-reveal">
             {t.modules.thaBronx3OfficialLinks.panels.map(
