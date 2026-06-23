@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "Tha Bronx 3 Wiki - Códigos, mapa y guía de dinero",
+      "description": "La Wiki de Tha Bronx 3 cubre códigos de Roblox, ubicaciones del mapa, métodos para ganar dinero, armas, autos, trabajos, actualizaciones y consejos para principiantes para progresar más rápido en TB3.",
+      "keywords": "tha bronx 3, roblox, tb3, códigos, mapa, guía de dinero, armas, autos, trabajos, actualizaciones",
+      "ogTitle": "Tha Bronx 3 Wiki - Códigos, mapa y guía de dinero",
+      "ogDescription": "La Wiki de Tha Bronx 3 cubre códigos de Roblox, ubicaciones del mapa, métodos para ganar dinero, armas, autos, trabajos, actualizaciones y consejos para principiantes para progresar más rápido en TB3.",
+      "twitterTitle": "Tha Bronx 3 Wiki - Códigos, mapa y guía de dinero",
+      "twitterDescription": "La Wiki de Tha Bronx 3 cubre códigos de Roblox, mapa, métodos para ganar dinero, armas, autos y trabajos para progresar más rápido en TB3 en Roblox."
+    }
+  },
   "nav": {
     "codes": "Códigos",
     "discord": "Discord",
@@ -6,6 +17,999 @@
     "money": "Dinero",
     "weapons": "Armas",
     "vehicles": "Vehículos",
-    "gamepasses": "Pases"
+    "gamepasses": "Gamepasses"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Roblox",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que estás buscando no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "RP de acción de mundo abierto en Roblox",
+    "title": "Tha Bronx 3 Wiki",
+    "description": "Explora las guías de Tha Bronx 3 para jugadores de Roblox, que incluyen rutas del mapa, métodos para ganar dinero, autos, armas, trabajos, actualizaciones y consejos para principiantes para progresar más rápido en TB3.",
+    "getFreeCodesCTA": "Consigue códigos gratis",
+    "playOnRobloxCTA": "Jugar en Roblox",
+    "stats": {
+      "stat1": {
+        "value": "209M+",
+        "label": "Visitas totales"
+      },
+      "stat2": {
+        "value": "30",
+        "label": "Máximo de jugadores"
+      },
+      "stat3": {
+        "value": "11.9K",
+        "label": "Pico de CCU en 7 días"
+      },
+      "stat4": {
+        "value": "87.68%",
+        "label": "Calificación de los usuarios"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay de Tha Bronx 3",
+    "description": "Explora una ciudad de Roblox de mundo abierto centrada en farmear dinero, autos, peleas, tiroteos y roleplay. Aprende rutas de dinero seguras, planificación de almacenamiento, opciones de armas y reconocimiento del mapa para progresar más rápido."
+  },
+  "tools": {
+    "title": "Tha Bronx 3",
+    "titleHighlight": "Guías",
+    "subtitle": "Todo lo que necesitas para Tha Bronx 3: códigos, rutas para principiantes, métodos para ganar dinero, armas, tienda, mapa, autos y enlaces de actualizaciones oficiales.",
+    "cards": [
+      {
+        "icon": "Ticket",
+        "title": "Códigos de Tha Bronx 3",
+        "description": "Canjear códigos, estado de recompensas y fuentes oficiales"
+      },
+      {
+        "icon": "Brújula",
+        "title": "Guía de Tha Bronx 3 para principiantes",
+        "description": "Ruta para la primera sesión, conceptos básicos del dinero y supervivencia inicial"
+      },
+      {
+        "icon": "Monedas",
+        "title": "Dinero y trabajos de Tha Bronx 3",
+        "description": "Comparativa de rutas de dinero, trabajos y ciclos de farmeo"
+      },
+      {
+        "icon": "Mira",
+        "title": "Tier list de armas de Tha Bronx 3",
+        "description": "Clasificación de armas por presión, capacidad y acceso"
+      },
+      {
+        "icon": "Bolsa de compras",
+        "title": "Guía de la tienda de Tha Bronx 3",
+        "description": "Clasificación de valor de gamepasses y objetos de la tienda"
+      },
+      {
+        "icon": "Mapa anclado",
+        "title": "Mapa de Tha Bronx 3",
+        "description": "Ubicaciones clave, tiendas, bancos y zonas de peligro"
+      },
+      {
+        "icon": "Auto",
+        "title": "Autos y almacenamiento de Tha Bronx 3",
+        "description": "Vehículos, maleteros y mejoras de almacenamiento"
+      },
+      {
+        "icon": "Periódico",
+        "title": "Enlaces oficiales de Tha Bronx 3",
+        "description": "Actualizaciones, páginas de Roblox y enlaces seguros"
+      }
+    ]
+  },
+  "modules": {
+    "thaBronx3Codes": {
+      "title": "Códigos y recompensas de Tha Bronx 3",
+      "displayType": "Tarjetas de códigos",
+      "intro": "Actualmente, Tha Bronx 3 no tiene un sistema oficial de canje de códigos. Sigue las recompensas reales desde la página del juego en Roblox, la comunidad oficial de Tha Bronx (RP) y el Instagram oficial. Usa esta sección para separar las recompensas reales del juego de las páginas de códigos falsas, vendedores de dinero y ofertas de scripts.",
+      "cards": [
+        {
+          "label": "Códigos activos",
+          "status": "No hay códigos de canje oficiales activos",
+          "statusType": "neutral",
+          "reward": "No hay ninguna recompensa de código pública listada en la página oficial del juego en Roblox.",
+          "action": "Revisa la página del juego en Roblox, la comunidad de Tha Bronx (RP) y el Instagram oficial antes de intentar probar cualquier código."
+        },
+        {
+          "label": "Fuentes oficiales de recompensas",
+          "status": "Solo canales oficiales",
+          "statusType": "seguro",
+          "reward": "Las actualizaciones del juego, los avisos de la comunidad y las publicaciones en redes sociales son los lugares más seguros para hacer un seguimiento de las nuevas recompensas.",
+          "action": "Usa la página de la experiencia de Roblox, la página de la comunidad de Tha Bronx (RP) y la cuenta oficial de Instagram."
+        },
+        {
+          "label": "Potenciadores de la tienda",
+          "status": "Disponibles a través de objetos de la tienda de Roblox",
+          "statusType": "seguro",
+          "reward": "Los objetos útiles de la tienda incluyen mejoras de almacenamiento y utilidad como Espacio de bolsa x2, Mochila extra, Espacio de caja fuerte extra, Espacio de maletero extra, Espacio de cartera extra, ¡SAQUEO! y Dinero del trabajo del trapeador x2.",
+          "action": "Prioriza los pases de almacenamiento o de apoyo económico antes de comprar objetos de combate costosos."
+        },
+        {
+          "label": "Reclamos inseguros",
+          "status": "Evita los reclamos externos de dinero y scripts",
+          "statusType": "peligro",
+          "reward": "Las entregas de dinero de terceros, las transferencias de dinero en mercados externos, los scripts de exploits y las páginas de canje falsas no son recompensas oficiales.",
+          "action": "No ingreses los detalles de tu cuenta, no instales scripts ni pagues a vendedores externos para obtener dinero del juego."
+        }
+      ]
+    },
+    "thaBronx3BeginnerGuide": {
+      "title": "Guía para principiantes de Tha Bronx 3",
+      "displayType": "paso a paso",
+      "intro": "Comienza desde la experiencia de Roblox correcta, aprende el ciclo básico de la ciudad y protege tu dinero inicial. La primera sesión se centra en conocer el mapa, las rutas de dinero seguras, la planificación del almacenamiento y el movimiento inteligente antes de invertir en equipo de combate costoso.",
+      "steps": [
+        {
+          "title": "Únete a la experiencia de Roblox correcta",
+          "description": "Usa la página de Roblox para THA BRONX 3 de Tha Bronx (RP). Evita las copias con nombres similares, las páginas de códigos falsas y los enlaces de descarga fuera de la plataforma.",
+          "focus": "Acceso correcto al juego"
+        },
+        {
+          "title": "Aprende el ciclo básico",
+          "description": "El ciclo principal consiste en moverse por el mundo abierto, farmear dinero, autos, peleas y juegos de rol (roleplay). Pasa tu primera partida aprendiendo las calles, tiendas, puntos de almacenamiento y rutas de escape antes de comprar objetos de alto riesgo.",
+          "focus": "Conocimiento del mapa"
+        },
+        {
+          "title": "Comienza con dinero de bajo riesgo",
+          "description": "Usa rutas de trabajo básico y de saqueo antes de entrar en peleas. El trabajo del trapeador es ideal para principiantes, mientras que las rutas de saqueo pueden pagar más rápido pero te exponen a otros jugadores.",
+          "focus": "Dinero inicial"
+        },
+        {
+          "title": "Protege el almacenamiento primero",
+          "description": "El espacio de la bolsa, la mochila, la cartera, la caja fuerte y el maletero es importante, ya que llevar demasiado dinero o botín sin una planificación de almacenamiento hace que cada muerte sea más costosa.",
+          "focus": "Seguridad del dinero"
+        },
+        {
+          "title": "Compra movilidad antes que objetos para presumir",
+          "description": "Los autos ayudan con los traslados, los escapes y las rutas de dinero. Un vehículo barato y práctico suele ser más útil al principio que un pase de arma llamativo que no puedes proteger.",
+          "focus": "Movilidad"
+        },
+        {
+          "title": "Retrasa las compras de combate costosas",
+          "description": "Aprende sobre el retroceso, la cobertura, la distancia y cuándo abandonar una pelea antes de comprar armas de gama alta, switches o armas de pago.",
+          "focus": "Control de combate"
+        },
+        {
+          "title": "Ignora las trampas de scripts y vendedores de dinero",
+          "description": "No uses scripts de exploits, vendedores de dinero fuera de la plataforma ni enlaces de recompensas falsos. Mantén tu progreso dentro de Roblox y los canales oficiales.",
+          "focus": "Seguridad de la cuenta"
+        }
+      ]
+    },
+    "thaBronx3MoneyAndJobs": {
+      "title": "Guía de dinero y trabajos de Tha Bronx 3",
+      "displayType": "tabla",
+      "intro": "El dinero es uno de los pilares principales de progresión en Tha Bronx 3. Compara los trabajos más seguros, las rutas de saqueo, la planificación del almacenamiento y el farmeo de alto riesgo para que puedas ganar de forma constante sin perder tu progreso por un mal momento.",
+      "methods": [
+        {
+          "method": "Trabajo del trapeador",
+          "risk": "Bajo",
+          "requirements": "No se requiere un arma costosa",
+          "bestFor": "Dinero para la primera sesión, práctica de control y aprendizaje de rutinas seguras",
+          "notes": "Funciona mejor como método de inicio. El artículo de la tienda '2x Mop Job Cash' hace que esta ruta sea más eficiente."
+        },
+        {
+          "method": "Rutas de saqueo",
+          "risk": "Medio",
+          "requirements": "Espacio en la bolsa, estar alerta y una ruta de escape rápida",
+          "bestFor": "Dinero rápido al inicio y recolección de objetos más veloz",
+          "notes": "Útil después de conocer el mapa. Las mejoras de almacenamiento como '2x Bag Space' y 'Extra BackPack' hacen que las rutas de saqueo sean más fáciles de manejar."
+        },
+        {
+          "method": "Rutas de robo de cajeros automáticos y tiendas",
+          "risk": "Alto",
+          "requirements": "Sincronización, plan de escape y preparación para el combate",
+          "bestFor": "Jugadores que ya entienden las zonas de peligro y el flujo de jugadores",
+          "notes": "Las rutas de dinero de mayor riesgo deben hacerse después de asegurar el almacenamiento y la movilidad. No lleves encima más de lo que tu cartera, caja fuerte o plan de maletero puedan proteger."
+        },
+        {
+          "method": "Farmeo en vehículos",
+          "risk": "Medio",
+          "requirements": "Un vehículo útil y conocimiento de las rutas",
+          "bestFor": "Moverse entre puntos de dinero, escapar de la presión y reducir el tiempo de viaje perdido",
+          "notes": "Los autos mejoran la velocidad de la ruta y la supervivencia. Ahorra para un transporte práctico antes de gastar en lujos."
+        },
+        {
+          "method": "Farmeo con mejoras de almacenamiento",
+          "risk": "De bajo a medio",
+          "requirements": "Mejoras de cartera, mochila, caja fuerte, maletero o bolsa",
+          "bestFor": "Sesiones más largas donde perder dinero retrasaría tu progreso",
+          "notes": "'Extra Wallet Space', 'Extra Safe Space', 'Extra Trunk Space' y 'Extra BackPack' permiten hacer rondas de dinero más largas."
+        },
+        {
+          "method": "Saqueo en combate",
+          "risk": "Muy alto",
+          "requirements": "Habilidad con las armas, disciplina con la munición y toma de decisiones rápida",
+          "bestFor": "Jugadores experimentados que pueden ganar o retirarse de las peleas de forma constante",
+          "notes": "No trates el combate como un método de ingresos para principiantes. Las armas cuestan dinero y los errores cuestan aún más."
+        }
+      ]
+    },
+    "thaBronx3WeaponsTierList": {
+      "title": "Lista de niveles de armas y pistolas de Tha Bronx 3",
+      "displayType": "tier-grid",
+      "intro": "La tienda de Tha Bronx 3 incluye opciones de armas de pago, armas de alta capacidad, variantes de tambor y variantes con láser. Para los principiantes, el equipamiento más fuerte es el que puedes permitirte, proteger, recargar y con el que puedes escapar, no la opción más cara de la estantería.",
+      "tiers": [
+        {
+          "tier": "S",
+          "tierLabel": "Mejores opciones para presionar",
+          "description": "Sólidas opciones de combate de pago diseñadas para una presión agresiva en PvP, alta cadencia de tiro o combates de gran capacidad.",
+          "entries": [
+            {
+              "name": "Fully-ARPR",
+              "type": "Opción de rifle totalmente automático",
+              "role": "Combates de alta presión y avances agresivos"
+            },
+            {
+              "name": "fully-AK47",
+              "type": "Opción de rifle totalmente automático",
+              "role": "Presión a corta y media distancia"
+            },
+            {
+              "name": "G19x-FRT",
+              "type": "Opción de pistola de gatillo rápido",
+              "role": "Enfrentamientos rápidos a corta distancia"
+            },
+            {
+              "name": "100Rnd308",
+              "type": "Opción de rifle de alta capacidad",
+              "role": "Combates prolongados y fuego sostenido"
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "tierLabel": "Opciones de alta capacidad y precisión láser",
+          "description": "Opciones de armas útiles con mejor control de cargador, herramientas de visibilidad o mayor tiempo de actividad en combate.",
+          "entries": [
+            {
+              "name": "AR de 60 rondas",
+              "type": "Opción de AR extendido",
+              "role": "Fuego sostenido con un control de presión más fácil"
+            },
+            {
+              "name": "AK-Drum",
+              "type": "Opción de rifle de tambor",
+              "role": "Ráfagas más largas antes de recargar"
+            },
+            {
+              "name": "Micro-ARBeam",
+              "type": "AR compacto con precisión láser",
+              "role": "Seguimiento a corta distancia y presión más rápida"
+            },
+            {
+              "name": "100Round TanScope",
+              "type": "Opción con mira de alta capacidad",
+              "role": "Presión a mayor distancia y combates prolongados"
+            }
+          ]
+        },
+        {
+          "tier": "B",
+          "tierLabel": "Armas secundarias para principiantes",
+          "description": "Opciones útiles de pistolas y cargadores de tambor para jugadores que necesitan alternativas de combate más baratas, fáciles o compactas.",
+          "entries": [
+            {
+              "name": "Glock19 Clear Drum",
+              "type": "Opción de pistola de tambor",
+              "role": "Arma de respaldo a corta distancia para principiantes"
+            },
+            {
+              "name": "G19Drum",
+              "type": "Opción de pistola de tambor",
+              "role": "Arma de respaldo a corta distancia con capacidad extra"
+            },
+            {
+              "name": "P80G26Drum",
+              "type": "Opción de pistola de tambor compacta",
+              "role": "Arma de respaldo ligera para combates cortos"
+            },
+            {
+              "name": "Five-Seven Extended",
+              "type": "Opción de pistola extendida",
+              "role": "Presión confiable tipo arma secundaria"
+            }
+          ]
+        },
+        {
+          "tier": "Utilidad",
+          "tierLabel": "Soporte de progresión",
+          "description": "No son armas, pero están muy vinculadas a la progresión de armas porque ayudan a los jugadores a llevar, almacenar y proteger dinero o botín.",
+          "entries": [
+            {
+              "name": "2x Espacio de mochila",
+              "type": "Mejora de almacenamiento",
+              "role": "Mejor saqueo y rutas más largas"
+            },
+            {
+              "name": "Espacio extra en la billetera",
+              "type": "Mejora de capacidad de efectivo",
+              "role": "Lleva más efectivo antes de depositarlo"
+            },
+            {
+              "name": "Espacio extra en la caja fuerte",
+              "type": "Mejora de almacenamiento",
+              "role": "Protege tu progreso valioso"
+            },
+            {
+              "name": "Espacio extra en el maletero",
+              "type": "Mejora de almacenamiento del vehículo",
+              "role": "Apoya las rutas de farmeo en vehículos"
+            }
+          ]
+        }
+      ]
+    },
+    "thaBronx3StoreGuide": {
+      "title": "Guía de Gamepasses y Tienda de Tha Bronx 3",
+      "displayType": "tabla-comparativa",
+      "intro": "La tienda de Tha Bronx 3 está diseñada en torno a la utilidad práctica, la propiedad de vehículos, las mejoras de almacenamiento y el acceso a armas. Los pases de utilidad son las compras iniciales más seguras para el farmeo a largo plazo, mientras que los pases de armas son ideales para jugadores que ya conocen el mapa y las zonas de peligro.",
+      "passes": [
+        {
+          "name": "Espacio extra en la caja fuerte",
+          "category": "Almacenamiento",
+          "price": "350 Robux",
+          "status": "En oferta",
+          "bestUse": "Añade más espacio para almacenamiento protegido mediante el uso de cajas fuertes.",
+          "priority": "Alta",
+          "notes": "Excelente primera compra de utilidad para jugadores que guardan efectivo de reserva, herramientas y armas."
+        },
+        {
+          "name": "Espacio extra en la billetera",
+          "category": "Capacidad de efectivo",
+          "price": "350 Robux",
+          "status": "En oferta",
+          "bestUse": "Ayuda a los jugadores a cargar más dinero antes de depositarlo o gastarlo.",
+          "priority": "Alta",
+          "notes": "Ideal para jugadores que hacen rutas de dinero, viajes al banco, farmeo de trabajos y recorridos por tiendas."
+        },
+        {
+          "name": "Mochila extra",
+          "category": "Capacidad de inventario",
+          "price": "350 Robux",
+          "status": "En oferta",
+          "bestUse": "Añade más espacio de carga personal para herramientas, comida y botín.",
+          "priority": "Alta",
+          "notes": "Útil en casi todas las sesiones porque Tha Bronx 3 tiene trabajos, tiendas, armas, comida y objetos recolectables."
+        },
+        {
+          "name": "Espacio extra en el maletero",
+          "category": "Almacenamiento de vehículo",
+          "price": "400 Robux",
+          "status": "En oferta",
+          "bestUse": "Añade más espacio en el maletero para transportar botín y suministros en coche.",
+          "priority": "Medio",
+          "notes": "Es mejor después de tener o usar vehículos regularmente; es menos útil para jugadores que aún se desplazan mayormente a pie."
+        },
+        {
+          "name": "2x Dinero del trabajo de limpieza",
+          "category": "Potenciador de trabajo",
+          "price": "400 Robux",
+          "status": "En oferta",
+          "bestUse": "Mejora la ganancia de dinero de la ruta del trabajo de limpieza.",
+          "priority": "Medio",
+          "notes": "Bueno para jugadores que prefieren ingresos de trabajos seguros en lugar de depender de robos o rutas de PvP."
+        },
+        {
+          "name": "2x Espacio de mochila",
+          "category": "Potenciador de ruta de dinero",
+          "price": "500 Robux",
+          "status": "En oferta",
+          "bestUse": "Aumenta la ganancia de dinero en robos a bancos y rutas de saqueo.",
+          "priority": "Medio",
+          "notes": "Ideal para jugadores que ya saben cómo funcionan las rutas de banco y robos."
+        },
+        {
+          "name": "¡SAQUEO!",
+          "category": "Utilidad de PvP",
+          "price": "650 Robux",
+          "status": "En oferta",
+          "bestUse": "Permite a los jugadores quitarles objetos a otros jugadores.",
+          "priority": "Situacional",
+          "notes": "Un pase enfocado en PvP; omítelo al principio si el objetivo principal es dinero estable, coches y almacenamiento."
+        },
+        {
+          "name": "Lambo",
+          "category": "Vehículo",
+          "price": "800 Robux",
+          "status": "En oferta",
+          "bestUse": "Acceso a vehículo premium para viajes más rápidos y un estilo de juego enfocado en el estatus.",
+          "priority": "Situacional",
+          "notes": "Vale la pena considerarlo después del almacenamiento de utilidad, no antes de la supervivencia básica y el manejo de dinero."
+        },
+        {
+          "name": "WideBody TRX",
+          "category": "Vehículo",
+          "price": "400 Robux",
+          "status": "En oferta",
+          "bestUse": "Opción de vehículo de pago para jugadores que quieren una conducción tipo camioneta.",
+          "priority": "Situacional",
+          "notes": "Combina naturalmente con el uso del maletero y un estilo de juego de muchos viajes."
+        },
+        {
+          "name": "BulletProof Tahoe",
+          "category": "Vehículo",
+          "price": "Fuera de venta",
+          "status": "Actualmente no disponible para la venta",
+          "bestUse": "Pase de tipo vehículo blindado cuando esté disponible.",
+          "priority": "No disponible",
+          "notes": "Revisa la pestaña de la tienda de Roblox para ver cambios en la disponibilidad."
+        },
+        {
+          "name": "Rueda de colores personalizada",
+          "category": "Cosmético",
+          "price": "250 Robux",
+          "status": "A la venta",
+          "bestUse": "Personalización de vehículos o apariencia.",
+          "priority": "Bajo",
+          "notes": "Bueno después de mejoras prácticas; los cosméticos no reemplazan la capacidad de la bolsa, billetera, caja fuerte o maletero."
+        },
+        {
+          "name": "Pases vinculados a armas",
+          "category": "Armas",
+          "price": "250-1000 Robux",
+          "status": "Varía según el artículo",
+          "bestUse": "Los artículos de la tienda incluyen nombres de armas como Glock19 Clear Drum, G2CBeam, M4FLASH, Micro-ARBeam y AK-Drum.",
+          "priority": "Situacional",
+          "notes": "Compra solo cuando ya entiendas el riesgo en combate, las rutas de aparición y cómo guardar repuestos."
+        }
+      ]
+    },
+    "thaBronx3MapGuide": {
+      "title": "Guía de mapas y ubicaciones de Tha Bronx 3",
+      "displayType": "lista-de-tarjetas",
+      "intro": "Tha Bronx 3 es un juego de ciudad de mundo abierto en Roblox con obtención de dinero, tiendas, autos, trabajos y zonas de peligro. Usa el mapa primero por función: deposita dinero, compra comida, aprende qué tiendas son seguras y luego expande hacia robos y rutas de mayor riesgo.",
+      "locations": [
+        {
+          "name": "Concesionario de autos",
+          "category": "Utilidad de vehículo",
+          "area": "Sección noroeste del área principal del Bronx",
+          "use": "Compra y genera los autos que posees.",
+          "safe": true,
+          "tip": "La parada central para la progresión de vehículos y uno de los puntos de referencia iniciales más importantes."
+        },
+        {
+          "name": "Banco",
+          "category": "Utilidad de dinero",
+          "area": "Lado norte y Highland, arriba del concesionario de autos",
+          "use": "Deposita fondos y gestiona tus rutas de dinero.",
+          "safe": false,
+          "tip": "Los viajes al banco son importantes después de trabajos, robos y visitas a tiendas; llega con una ruta de escape."
+        },
+        {
+          "name": "Lavandería de dinero sucio",
+          "category": "Utilidad de dinero",
+          "area": "Calle principal del oeste del Bronx cerca de la manzana del Gunstop",
+          "use": "Limpia el dinero sucio a través de contadoras de dinero.",
+          "safe": true,
+          "tip": "Una parada clave para convertir dinero sucio antes de depositarlo o gastarlo."
+        },
+        {
+          "name": "Bronx Deli",
+          "category": "Comida y trabajo",
+          "area": "Parte central de la región principal del Bronx",
+          "use": "Compra Chopped Cheese y trabaja la ruta de comida.",
+          "safe": true,
+          "tip": "Una buena ruta para ganar dinero al principio porque combina el acceso a comida con los ingresos del trabajo."
+        },
+        {
+          "name": "Dronald's",
+          "category": "Comida y trabajo",
+          "area": "Zona centro-oeste del Bronx principal",
+          "use": "Compra café, usa la ruta del trabajo de trapear y accede a un cajero automático.",
+          "safe": true,
+          "tip": "Útil para jugadores que quieren ganar dinero repetible con trabajos antes de correr mayores riesgos."
+        },
+        {
+          "name": "Gunstop Black",
+          "category": "Tienda de armas",
+          "area": "Calle central principal del Bronx",
+          "use": "Compra de una selección más amplia en la tienda de armas.",
+          "safe": true,
+          "tip": "Una tienda de armas principal y un lugar natural para planificar el almacenamiento antes de llevar objetos costosos."
+        },
+        {
+          "name": "Gunstop Blue",
+          "category": "Tienda de armas",
+          "area": "Zona norte y Highland, primera calle hacia arriba",
+          "use": "Compra de una selección de armas más pequeña.",
+          "safe": true,
+          "tip": "Una buena parada secundaria para conseguir armas al moverte por la zona norte."
+        },
+        {
+          "name": "Gun Supplier",
+          "category": "Tienda de armas",
+          "area": "Cabaña blanca al este en la autopista más al sur",
+          "use": "Compra armas de mayor nivel y más caras.",
+          "safe": false,
+          "tip": "Tómalo como un viaje de abastecimiento más arriesgado, no como un paseo de compras casual."
+        },
+        {
+          "name": "Studio",
+          "category": "Armas exclusivas",
+          "area": "Zona de la gasolinera en el lado oeste del Bronx principal",
+          "use": "Accede a opciones de armas exclusivas y vinculadas a pases de juego.",
+          "safe": true,
+          "tip": "Útil después de revisar la tienda y decidir qué rutas de armas de pago se adaptan a tu estilo de juego."
+        },
+        {
+          "name": "Zotic Shop",
+          "category": "Herramientas e ingredientes",
+          "area": "Zona residencial del sur del Bronx",
+          "use": "Compra herramientas, ingredientes y artículos especiales de la tienda.",
+          "safe": true,
+          "tip": "Una parada muy útil para los jugadores que hacen rutas de creación, comida y recursos."
+        },
+        {
+          "name": "Soda Pop Store",
+          "category": "Ingredientes",
+          "area": "Zona alta del Bronx principal, dentro de un edificio en la planta alta",
+          "use": "Compra Bolsas de Azúcar y Agua Fiji para cocinar Soda Pop.",
+          "safe": true,
+          "tip": "Márcalo para las rutas de ingredientes de modo que los jugadores puedan encontrar suministros para cocinar rápidamente."
+        },
+        {
+          "name": "Roof Shop",
+          "category": "Herramientas y creación",
+          "area": "Puerta de la izquierda dentro del mismo edificio que la Soda Pop Store",
+          "use": "Compra taladros, C4, fabrica objetos y accede a las funciones del mercado.",
+          "safe": true,
+          "tip": "Se complementa con rutas de mayor riesgo, así que prepara el almacenamiento antes de llevar herramientas costosas."
+        },
+        {
+          "name": "Dripstore",
+          "category": "Ropa",
+          "area": "Centro-norte del Bronx continental, cerca del concesionario de autos.",
+          "use": "Compra accesorios permanentes y ropa.",
+          "safe": true,
+          "tip": "Parada cosmética; visítala después de cubrir las necesidades básicas de dinero, comida y almacenamiento."
+        },
+        {
+          "name": "Centro Médico",
+          "category": "Curación",
+          "area": "Inicio de la autopista en la región del South Bronx.",
+          "use": "Cura tus heridas después de un combate o de rutas arriesgadas.",
+          "safe": true,
+          "tip": "Tenlo en cuenta antes de adentrarte en las rutas del lado sur o al volver de peleas."
+        },
+        {
+          "name": "Almacén",
+          "category": "Ruta de vehículos y trabajos.",
+          "area": "Región oeste del South Bronx.",
+          "use": "Aparece un camión y realiza rutas de transporte tipo almacén.",
+          "safe": false,
+          "tip": "Una ruta práctica para viajar y ganar dinero, pero no trates al camión como un escudo mágico."
+        },
+        {
+          "name": "En el radar",
+          "category": "Zona de peligro de robos.",
+          "area": "Frente a la lavandería.",
+          "use": "Ruta de robos de alto valor.",
+          "safe": false,
+          "tip": "Trae solo lo que puedas permitirte arriesgar y guarda suministros de reserva antes de empezar."
+        }
+      ]
+    },
+    "thaBronx3CarsAndStorage": {
+      "title": "Guía de autos y almacenamiento de Tha Bronx 3",
+      "displayType": "lista-de-tarjetas",
+      "intro": "Los vehículos son importantes porque Tha Bronx 3 distribuye trabajos, tiendas, bancos y zonas de peligro por toda la ciudad. El almacenamiento importa aún más: las mejoras de bolsa, billetera, maletero, caja fuerte y mochila deciden cuánto puedes cargar, mover y proteger entre recorridos.",
+      "vehicles": [
+        {
+          "name": "Concesionario de autos",
+          "category": "Acceso principal a vehículos.",
+          "cost": "El dinero del juego varía según el vehículo.",
+          "access": "Área principal del noroeste del Bronx.",
+          "use": "Compra y aparece autos de tu propiedad.",
+          "storageRole": "Se combina con el almacenamiento del maletero y viajes más rápidos entre tiendas, trabajos y bancos.",
+          "notes": "Haz de este el primer punto de referencia de vehículos antes de buscar pases de vehículos de pago."
+        },
+        {
+          "name": "Camión de almacén",
+          "category": "Transporte gratuito.",
+          "cost": "Ruta de aparición gratuita.",
+          "access": "Almacén en el oeste del South Bronx.",
+          "use": "Muévete a través de rutas de transporte tipo almacén y de muebles.",
+          "storageRole": "Útil para mover objetos durante el farmeo basado en rutas.",
+          "notes": "Ideal para jugadores que necesitan transporte antes de comprar un auto permanente."
+        },
+        {
+          "name": "2010 Escalade",
+          "category": "Auto propio inicial",
+          "cost": "$10,000 de dinero del juego",
+          "access": "Concesionario de autos",
+          "use": "Opción económica de vehículo propio.",
+          "storageRole": "Funciona como una mejora de viaje inicial antes de los autos premium.",
+          "notes": "Un primer auto propio práctico para jugadores que establecen rutas estables."
+        },
+        {
+          "name": "1500Chev",
+          "category": "Auto propio inicial",
+          "cost": "$9,700 de dinero del juego",
+          "access": "Concesionario de autos",
+          "use": "Opción de bajo costo de vehículo propio.",
+          "storageRole": "Ayuda con las rutas de trabajo, los viajes a las tiendas y el movimiento por la ciudad.",
+          "notes": "Útil cuando el objetivo es la funcionalidad antes que el gasto cosmético o premium."
+        },
+        {
+          "name": "Lambo",
+          "category": "Pase de vehículo de pago",
+          "cost": "800 Robux",
+          "access": "Pase de la tienda de Roblox",
+          "use": "Acceso a vehículos premium.",
+          "storageRole": "Valor centrado en el viaje; combínalo con almacenamiento en el maletero si la ruta implica mover botín.",
+          "notes": "Mejor después de comprar mejoras prácticas de almacenamiento."
+        },
+        {
+          "name": "WideBody TRX",
+          "category": "Pase de vehículo de pago",
+          "cost": "400 Robux",
+          "access": "Pase de la tienda de Roblox",
+          "use": "Opción de vehículo de pago estilo camioneta.",
+          "storageRole": "Se adapta a un estilo de juego con muchos viajes y gran uso del maletero.",
+          "notes": "Ideal para jugadores que ya usan autos con frecuencia."
+        },
+        {
+          "name": "BulletProof Tahoe",
+          "category": "Pase de vehículo de pago",
+          "cost": "Fuera de venta",
+          "access": "Pase de la tienda de Roblox",
+          "use": "Opción de estilo vehículo blindado cuando esté disponible.",
+          "storageRole": "Rol de vehículo centrado en el viaje y la protección.",
+          "notes": "Sigue la pestaña oficial de la tienda de Roblox para ver la disponibilidad."
+        },
+        {
+          "name": "Espacio extra en el maletero",
+          "category": "Pase de almacenamiento de vehículo",
+          "cost": "400 Robux",
+          "access": "Pase de la tienda de Roblox",
+          "use": "Expande el almacenamiento del maletero.",
+          "storageRole": "Ideal para llevar botín, suministros y artículos de ruta en auto.",
+          "notes": "Más útil después de tener o usar autos regularmente."
+        },
+        {
+          "name": "Mochila extra",
+          "category": "Pase de almacenamiento personal",
+          "cost": "350 Robux",
+          "access": "Pase de la Tienda de Roblox",
+          "use": "Expande la capacidad del inventario del jugador.",
+          "storageRole": "Ayuda a llevar herramientas, comida y objetos pequeños sin depender de un vehículo.",
+          "notes": "Una de las mejoras más versátiles para jugadores nuevos y veteranos."
+        },
+        {
+          "name": "Espacio de billetera extra",
+          "category": "Pase de almacenamiento de efectivo",
+          "cost": "350 Robux",
+          "access": "Pase de la Tienda de Roblox",
+          "use": "Expande la capacidad de efectivo que puedes llevar.",
+          "storageRole": "Útil para vueltas al banco, compras en tiendas y rutas de trabajo.",
+          "notes": "Útil antes de comprar equipo costoso o vehículos."
+        },
+        {
+          "name": "Espacio de caja fuerte extra",
+          "category": "Pase de almacenamiento protegido",
+          "cost": "350 Robux",
+          "access": "Pase de la Tienda de Roblox",
+          "use": "Expande el almacenamiento protegido de la caja fuerte.",
+          "storageRole": "Mantiene los objetos de respaldo y el dinero más seguros entre viajes riesgosos.",
+          "notes": "La mejor mejora de almacenamiento para jugadores que farmean sesiones largas."
+        }
+      ]
+    },
+    "thaBronx3OfficialLinks": {
+      "title": "Rastreador de actualizaciones y enlaces oficiales de Tha Bronx 3",
+      "displayType": "acordeón",
+      "intro": "Tha Bronx 3 tiene muchas páginas de códigos no oficiales, vendedores de efectivo y páginas de scripts a su alrededor. Este rastreador mantiene la página principal enfocada en las fuentes oficiales de Roblox y redes sociales oficiales para que siempre llegues al juego real.",
+      "panels": [
+        {
+          "label": "Experiencia oficial de Roblox",
+          "summary": "Juega Tha Bronx 3 desde la página de la experiencia de Roblox.",
+          "content": "La experiencia oficial es THA BRONX 3 de Tha Bronx (RP). La descripción de Roblox lo define como un juego de acción y roleplay de mundo abierto con dinero, farmeo, ciudad, autos, peleas, disparos y juego con amigos.",
+          "links": [
+            {
+              "label": "Jugar en Roblox",
+              "href": "https://www.roblox.com/games/16472538603/THA-BRONX-3"
+            }
+          ]
+        },
+        {
+          "label": "Pestaña de la Tienda de Roblox",
+          "summary": "Consulta los pases de pago y la disponibilidad actual dentro de Roblox.",
+          "content": "Usa la pestaña Tienda para gamepasses como mejoras de almacenamiento, mejoras de billetera, espacio en el maletero, pases de vehículos, pases vinculados a armas y opciones cosméticas. Los precios y el estado de las ofertas deben verificarse en Roblox antes de la compra.",
+          "links": [
+            {
+              "label": "Abrir Tienda",
+              "href": "https://www.roblox.com/games/16472538603/THA-BRONX-3#!/store"
+            }
+          ]
+        },
+        {
+          "label": "Pestaña de Servidores de Roblox",
+          "summary": "Abre servidores públicos directamente desde Roblox.",
+          "content": "Usa la pestaña de Servidores de Roblox al elegir un servidor público en lugar de seguir enlaces de servidores de terceros aleatorios.",
+          "links": [
+            {
+              "label": "Abrir Servidores",
+              "href": "https://www.roblox.com/games/16472538603/THA-BRONX-3#!/game-instances"
+            }
+          ]
+        },
+        {
+          "label": "Comunidad de creadores",
+          "summary": "Sigue a la comunidad oficial de Roblox vinculada al creador.",
+          "content": "Tha Bronx (RP) es la comunidad de creadores que aparece en la página de la experiencia de Roblox. Úsala para confirmar la identidad del creador antes de confiar en enlaces de redes sociales o afirmaciones de la comunidad.",
+          "links": [
+            {
+              "label": "Tha Bronx (RP)",
+              "href": "https://www.roblox.com/communities/15022380/Tha-Bronx-RP"
+            }
+          ]
+        },
+        {
+          "label": "Instagram oficial",
+          "summary": "Sigue las publicaciones de actualizaciones públicas desde el perfil oficial de Instagram.",
+          "content": "El perfil de Instagram @thabronx2official se describe como la cuenta oficial de Tha Bronx 3 y publica clips de actualizaciones y anuncios.",
+          "links": [
+            {
+              "label": "Instagram oficial",
+              "href": "https://www.instagram.com/thabronx2official/"
+            }
+          ]
+        },
+        {
+          "label": "Videos de demostración de actualizaciones",
+          "summary": "Usa los videos de demostración para ver nuevos bloques, armas, autos y cambios de la actualización en acción.",
+          "content": "Los videos de demostración de actualizaciones son útiles para ver cambios en el mapa, nuevos vehículos, artículos de la tienda y rutas de juego antes de gastar Robux o dinero del juego.",
+          "links": [
+            {
+              "label": "Reseña de la actualización de verano",
+              "href": "https://www.youtube.com/watch?v=DqejbEx2PeU"
+            },
+            {
+              "label": "Gameplay del nuevo bloque",
+              "href": "https://www.youtube.com/watch?v=3GSNeBjpte8"
+            }
+          ]
+        },
+        {
+          "label": "Regla de enlaces seguros",
+          "summary": "Usa las compras de Roblox, no ofertas de dinero de terceros o scripts.",
+          "content": "Las compras oficiales se realizan a través de Roblox. No uses vendedores de \"cash-drop\", transferencias de objetos del mercado, scripts ejecutores, páginas de duplicación o páginas de códigos falsos para Tha Bronx 3.",
+          "links": [
+            {
+              "label": "Página oficial del juego",
+              "href": "https://www.roblox.com/games/16472538603/THA-BRONX-3"
+            },
+            {
+              "label": "Tienda oficial",
+              "href": "https://www.roblox.com/games/16472538603/THA-BRONX-3#!/store"
+            }
+          ]
+        },
+        {
+          "label": "Qué monitorear después de las actualizaciones",
+          "summary": "Revisa las mismas áreas principales después de cada actualización.",
+          "content": "Después de cada actualización, revisa el título de la experiencia, la pestaña de la tienda, la pestaña de servidores, la comunidad oficial, las publicaciones de Instagram y las demostraciones de gameplay recientes. Los cambios importantes para el jugador suelen afectar a los gamepasses, armas, autos, tiendas, zonas del mapa, trabajos o rutas de dinero.",
+          "links": [
+            {
+              "label": "Página del juego",
+              "href": "https://www.roblox.com/games/16472538603/THA-BRONX-3"
+            },
+            {
+              "label": "Comunidad de creadores",
+              "href": "https://www.roblox.com/communities/15022380/Tha-Bronx-RP"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas",
+    "titleHighlight": "Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre Tha Bronx 3 en Roblox",
+    "questions": [
+      {
+        "question": "¿Qué es Tha Bronx 3?",
+        "answer": "Tha Bronx 3 es un juego de rol de acción de mundo abierto en Roblox creado por Tha Bronx (RP), basado en el farmeo de dinero, autos, peleas, disparos y mejoras en tiendas dentro de un entorno urbano."
+      },
+      {
+        "question": "¿Hay códigos activos para Tha Bronx 3?",
+        "answer": "Tha Bronx 3 actualmente no tiene un sistema oficial de canje de códigos. Sigue las recompensas reales en la página del juego en Roblox, la comunidad de Tha Bronx (RP) y el Instagram oficial, y evita páginas de códigos falsos y vendedores de dinero."
+      },
+      {
+        "question": "¿Cómo gano dinero rápido en Tha Bronx 3?",
+        "answer": "Empieza con el trabajo de limpieza (Mop Job) para principiantes y rutas de looteo, luego añade mejoras de almacenamiento. Las rutas de mayor riesgo, como los robos y el looteo en combate, es mejor dejarlas para cuando entiendas el mapa, las rutas de escape y las zonas de peligro."
+      },
+      {
+        "question": "¿Es Tha Bronx 3 gratis?",
+        "answer": "Sí. Tha Bronx 3 es gratis en Roblox. La tienda del juego ofrece gamepasses opcionales para almacenamiento, vehículos, potenciadores de trabajo y artículos vinculados a armas, pero ninguno es necesario para empezar a jugar."
+      },
+      {
+        "question": "¿Cuáles son las mejores mejoras de almacenamiento en Tha Bronx 3?",
+        "answer": "Espacio extra en la cartera, mochila extra, espacio extra en la caja fuerte y espacio extra en el maletero son las mejoras iniciales más útiles. Te permiten llevar, mover y proteger más dinero y botín en rutas de dinero más largas."
+      },
+      {
+        "question": "¿Dónde puedo encontrar las actualizaciones oficiales de Tha Bronx 3?",
+        "answer": "Consulta la página oficial de la experiencia en Roblox, la pestaña Tienda, la pestaña Servidores, la comunidad de creadores de Tha Bronx (RP) y el Instagram oficial para ver publicaciones de actualizaciones y demostraciones de juego."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para dominar Tha Bronx 3?",
+    "description": "¡Únete a la comunidad de Tha Bronx 3 para obtener guías, códigos, métodos para ganar dinero y las últimas actualizaciones de Roblox!",
+    "joinCommunity": "Únete a la comunidad",
+    "joinGame": "Jugar en Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Tha Bronx 3",
+    "description": "Tu centro de recursos completo para códigos, mapa, métodos para ganar dinero, autos, armas, trabajos y guías de Roblox de Tha Bronx 3.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "robloxGame": "Juego de Roblox",
+    "robloxCommunity": "Comunidad de Roblox",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "about": "Acerca de",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Tha Bronx 3 Wiki. No afiliado con los desarrolladores de Tha Bronx 3 ni con Roblox Corporation.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de Tha Bronx 3",
+      "description": "Sigue los códigos activos de Tha Bronx 3, las recompensas y las fuentes oficiales. Monitoreamos la página de la experiencia en Roblox y los canales de la comunidad para que nunca te pierdas dinero gratis, objetos o potenciadores.",
+      "metaTitle": "Códigos de Tha Bronx 3 - Recompensas activas y dinero gratis (Actualizado)",
+      "metaDescription": "Encuentra códigos de Tha Bronx 3 que funcionen para obtener dinero gratis, objetos y potenciadores. Actualizado regularmente con códigos verificados de la página oficial de la experiencia en Roblox.",
+      "categoryLabel": "CANJEAR CÓDIGOS",
+      "whatIs": "¿Qué son los códigos de Tha Bronx 3?",
+      "whatIsDescription": "Los códigos de Tha Bronx 3 son cadenas de recompensas promocionales lanzadas por los desarrolladores de Tha Bronx (RP) que otorgan dinero gratis, objetos o potenciadores al canjearlos en el juego. Se lanzan nuevos códigos junto con actualizaciones importantes, hitos y eventos de temporada en la página oficial de la experiencia en Roblox y en la comunidad de Tha Bronx (RP).",
+      "why": "¿Por qué usar nuestra lista de códigos?",
+      "whySteps": {
+        "step1Title": "Solo fuentes verificadas",
+        "step1Description": "Cada código se verifica con la página oficial de la experiencia en Roblox y la comunidad de Tha Bronx (RP) antes de publicarse.",
+        "step2Title": "Actualizado regularmente",
+        "step2Description": "La lista se actualiza a medida que llegan nuevos códigos con las actualizaciones y eventos, y los códigos expirados se eliminan rápidamente.",
+        "step3Title": "Pasos claros de canje",
+        "step3Description": "Cada página de código muestra exactamente dónde y cómo canjearlo dentro de Tha Bronx 3."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los códigos"
+    },
+    "discord": {
+      "title": "Discord de Tha Bronx 3",
+      "description": "Encuentra el servidor oficial de Discord de Tha Bronx 3, aprende a detectar enlaces comunitarios inseguros y conéctate con la comunidad de Tha Bronx (RP) de forma segura.",
+      "metaTitle": "Discord de Tha Bronx 3 - Servidor oficial y seguridad de la comunidad",
+      "metaDescription": "Cómo encontrar el servidor oficial de Discord de Tha Bronx 3, evitar enlaces de estafa y unirte a la comunidad de Roblox de Tha Bronx (RP) de forma segura.",
+      "categoryLabel": "COMUNIDAD",
+      "whatIs": "¿Qué es el Discord de Tha Bronx 3?",
+      "whatIsDescription": "El Discord de Tha Bronx 3 es el centro de la comunidad donde los jugadores discuten sobre servidores de roleplay, comparten actualizaciones, reportan problemas y buscan crews. La entrada más segura siempre es el canal enlazado desde la página oficial de la experiencia en Roblox, nunca invitaciones aleatorias publicadas en el juego o en sitios de terceros.",
+      "why": "¿Por qué leer esta guía?",
+      "whySteps": {
+        "step1Title": "El servidor oficial primero",
+        "step1Description": "Te indicamos la ruta del servidor verificado desde la página oficial de Roblox en lugar de enlaces de invitación no verificados.",
+        "step2Title": "Concientización sobre enlaces de estafa",
+        "step2Description": "Aprende cómo los vendedores de monedas, los traficantes de cuentas y los bots de invitaciones falsas acechan a los jugadores de Tha Bronx 3.",
+        "step3Title": "Hábitos comunitarios seguros",
+        "step3Description": "Reglas prácticas para proteger tu cuenta de Roblox y tu dinero mientras usas los canales de la comunidad."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías de la comunidad"
+    },
+    "guide": {
+      "title": "Guía de Tha Bronx 3",
+      "description": "Guías completas de Tha Bronx 3 que cubren controles, atajos de teclado, cómo unirse a servidores de RP, cómo ser policía y consejos de supervivencia para nuevos jugadores.",
+      "metaTitle": "Guía de Tha Bronx 3 - Controles, atajos y cómo jugar",
+      "metaDescription": "Domina Tha Bronx 3 con guías sobre controles, atajos, cómo unirse a servidores de RP, ser policía y sobrevivir a tus primeras sesiones en el Bronx.",
+      "categoryLabel": "GUÍAS",
+      "whatIs": "¿Qué es la guía de Tha Bronx 3?",
+      "whatIsDescription": "La colección de guías de Tha Bronx 3 cubre todo lo que un jugador nuevo necesita: controles predeterminados, atajos recomendados, cómo unirse a un servidor de RP, cómo convertirse en NYPD o empezar una crew, y cómo sobrevivir en las calles de mundo abierto del Bronx.",
+      "why": "¿Por qué empezar aquí?",
+      "whySteps": {
+        "step1Title": "Hoja de ruta para la primera sesión",
+        "step1Description": "Una ruta clara desde que apareces hasta ganar tu primer dinero y elegir un rol.",
+        "step2Title": "Controles y atajos",
+        "step2Description": "Una referencia completa de controles y configuraciones de atajos para ser rápido en peleas y persecuciones.",
+        "step3Title": "Roles y servidores",
+        "step3Description": "Cómo unirse a servidores de RP, ser policía y seguir las reglas que mantienen el roleplay justo."
+      },
+      "featured": "Destacado y esencial",
+      "all": "Todas las guías"
+    },
+    "money": {
+      "title": "Dinero y trabajos en Tha Bronx 3",
+      "description": "Los mejores métodos para ganar dinero en Tha Bronx 3 clasificados por ganancias por hora. Compara trabajos como el Mop Job, Construcción y Arroz para acumular dinero rápido y de forma segura.",
+      "metaTitle": "Guía de dinero de Tha Bronx 3 - Mejores trabajos y métodos de efectivo",
+      "metaDescription": "Gana dinero rápido en Tha Bronx 3 con trabajos clasificados y rutas de efectivo. Compara el Mop Job, Construcción, Arroz y más para obtener las mejores ganancias por hora.",
+      "categoryLabel": "DINERO Y TRABAJOS",
+      "whatIs": "¿Qué es la guía de dinero de Tha Bronx 3?",
+      "whatIsDescription": "La guía de dinero de Tha Bronx 3 compara todas las formas de ganar efectivo, desde trabajos iniciales seguros como el Mop Job en Dronald's hasta roles de mayor riesgo y mejor paga. Cada método está clasificado por ganancias por hora, nivel de riesgo y cuánto dinero inicial requiere.",
+      "why": "¿Por qué usar esta guía?",
+      "whySteps": {
+        "step1Title": "Clasificado por dinero por hora",
+        "step1Description": "Cada trabajo y ruta se compara por el dinero real ganado por hora para que elijas el farmeo más eficiente.",
+        "step2Title": "Riesgo vs. Recompensa",
+        "step2Description": "Conoce qué métodos son seguros y cuáles ponen en riesgo tu dinero antes de comprometerte.",
+        "step3Title": "Inicios para principiantes",
+        "step3Description": "Trabajos iniciales seguros que generan tus primeras reservas de efectivo sin arriesgar pérdidas."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías de dinero"
+    },
+    "weapons": {
+      "title": "Armas de Tha Bronx 3",
+      "description": "Tier list completa de armas y base de datos de pistolas de Tha Bronx 3. Compara cada arma por daño, capacidad, acceso y cómo obtener un permiso de armas en el Bronx.",
+      "metaTitle": "Tier List de armas de Tha Bronx 3 - Todas las armas clasificadas",
+      "metaDescription": "Clasifica cada arma de Tha Bronx 3 por daño, capacidad y acceso. Tier list completa de armas, además de cómo conseguir armas, munición, switches y un permiso de armas.",
+      "categoryLabel": "ARMAS",
+      "whatIs": "¿Qué es la guía de armas de Tha Bronx 3?",
+      "whatIsDescription": "La guía de armas de Tha Bronx 3 clasifica cada arma del juego y explica cómo adquirirlas, desde conseguir tu primera arma y un permiso legal hasta dónde encontrar munición y switches. Cada arma se califica por daño, cadencia de tiro, capacidad y facilidad de obtención.",
+      "why": "¿Por qué usar esta tier list?",
+      "whySteps": {
+        "step1Title": "Todas las armas clasificadas",
+        "step1Description": "Una tier list completa que cubre daño, presión, capacidad y acceso para todas las armas.",
+        "step2Title": "Cómo conseguir armas",
+        "step2Description": "Pasos claros para adquirir armas, munición y switches de forma legal y eficiente.",
+        "step3Title": "Explicación de los permisos de armas",
+        "step3Description": "Cómo funciona el sistema legal de permisos de armas para que te mantengas del lado correcto del roleplay de la NYPD."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías de armas"
+    },
+    "vehicles": {
+      "title": "Vehículos y coches de Tha Bronx 3",
+      "description": "Base de datos completa de vehículos y coches de Tha Bronx 3. Compara cada coche por velocidad, manejo, almacenamiento y precio para elegir el mejor vehículo para el Bronx.",
+      "metaTitle": "Vehículos de Tha Bronx 3 - Todos los coches clasificados y comparados",
+      "metaDescription": "Encuentra los mejores coches en Tha Bronx 3. Compara cada vehículo por velocidad, manejo, almacenamiento y precio para elegir el transporte adecuado para rutas de dinero y escapes.",
+      "categoryLabel": "VEHÍCULOS",
+      "whatIs": "¿Qué es la guía de vehículos de Tha Bronx 3?",
+      "whatIsDescription": "La guía de vehículos de Tha Bronx 3 cataloga cada coche del juego y los compara por velocidad máxima, aceleración, manejo, capacidad de almacenamiento y precio. Ya sea que necesites un coche de escape rápido o un transporte pesado para rutas de dinero, aquí encontrarás el vehículo adecuado.",
+      "why": "¿Por qué usar esta guía?",
+      "whySteps": {
+        "step1Title": "Base de datos completa de coches",
+        "step1Description": "Todos los vehículos listados con estadísticas para que puedas comparar especificaciones cara a cara.",
+        "step2Title": "Los mejores según tu presupuesto",
+        "step2Description": "Recomendaciones de los mejores coches para cada rango de precio, desde vehículos iniciales hasta los de nivel avanzado.",
+        "step3Title": "Almacenamiento y rutas de dinero",
+        "step3Description": "Qué vehículos tienen más capacidad para las rutas de dinero y la logística de la crew."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Guías de todos los vehículos"
+    },
+    "gamepasses": {
+      "title": "Gamepasses de Tha Bronx 3",
+      "description": "Gamepasses de Tha Bronx 3 clasificados por valor. Compara cada gamepass de Robux como Extra Backpack y Extra Safe Space para gastar tus Robux en lo que realmente vale la pena.",
+      "metaTitle": "Gamepasses de Tha Bronx 3 - Clasificación de los mejores pases de Robux",
+      "metaDescription": "Clasifica cada gamepass de Tha Bronx 3 por valor. Mira qué pases de Robux como Extra Backpack y Extra Safe Space valen la pena para progresar más rápido.",
+      "categoryLabel": "GAMEPASSES",
+      "whatIs": "¿Qué son los Gamepasses de Tha Bronx 3?",
+      "whatIsDescription": "Los gamepasses de Tha Bronx 3 son compras únicas de Robux que desbloquean ventajas permanentes como espacios adicionales en la mochila, espacio seguro extra y mejoras de calidad de vida. Esta guía clasifica cada gamepass según cuánto valor real aporta a tu farmeo.",
+      "why": "¿Por qué leer esta guía?",
+      "whySteps": {
+        "step1Title": "Clasificados por valor",
+        "step1Description": "Cada gamepass calificado según cuánto tiempo y dinero realmente te ahorra.",
+        "step2Title": "Mejores compras iniciales",
+        "step2Description": "Qué pases conseguir primero, como Extra Backpack y Extra Safe Space, para proteger tu dinero.",
+        "step3Title": "Sáltate los que no valen la pena",
+        "step3Description": "Indicaciones claras sobre qué gamepasses no valen tus Robux para que gastes de forma inteligente."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías de gamepasses"
+    }
   }
 }
