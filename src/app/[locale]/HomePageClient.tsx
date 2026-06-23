@@ -718,6 +718,10 @@ export default function HomePageClient({
                       {v.cost}
                     </span>
                   </div>
+                  <p className="mb-2 flex items-start gap-1.5 text-xs text-muted-foreground">
+                    <MapPinned className="mt-0.5 h-3.5 w-3.5 flex-shrink-0 text-[hsl(var(--nav-theme-light))]" />
+                    <span>{v.access}</span>
+                  </p>
                   <p className="mb-1 text-sm text-muted-foreground">{v.use}</p>
                   <p className="text-xs text-muted-foreground">{v.storageRole}</p>
                   <p className="mt-2 text-xs text-muted-foreground">{v.notes}</p>
