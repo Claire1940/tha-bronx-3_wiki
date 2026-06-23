@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Códigos",
+    "discord": "Discord",
+    "guide": "Guía",
+    "money": "Dinero",
+    "weapons": "Armas",
+    "vehicles": "Vehículos",
+    "gamepasses": "Pases"
+  }
+}

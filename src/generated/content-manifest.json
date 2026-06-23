@@ -1,1 +1,16 @@
-{}
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "tha-bronx-3-codes",
+        "file": "tha-bronx-3-codes"
+      }
+    ],
+    "discord": [
+      {
+        "slug": "tha-bronx-3-discord",
+        "file": "tha-bronx-3-discord"
+      }
+    ]
+  }
+}
