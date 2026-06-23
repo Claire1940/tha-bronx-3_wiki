@@ -10,14 +10,7 @@
       "twitterDescription": "Tha Bronx 3 Wiki covers Roblox codes, map, money methods, weapons, cars, and jobs for faster TB3 progress on Roblox."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
