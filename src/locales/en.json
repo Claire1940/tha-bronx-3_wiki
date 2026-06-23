@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Tha Bronx 3 Wiki - Codes, Map & Money Guide",
+      "description": "Tha Bronx 3 Wiki covers Roblox codes, map locations, money methods, weapons, cars, jobs, updates, and beginner tips for faster TB3 progress.",
+      "keywords": "tha bronx 3, roblox, tb3, codes, map, money guide, weapons, cars, jobs, updates",
+      "ogTitle": "Tha Bronx 3 Wiki - Codes, Map & Money Guide",
+      "ogDescription": "Tha Bronx 3 Wiki covers Roblox codes, map locations, money methods, weapons, cars, jobs, updates, and beginner tips for faster TB3 progress.",
+      "twitterTitle": "Tha Bronx 3 Wiki - Codes, Map & Money Guide",
+      "twitterDescription": "Tha Bronx 3 Wiki covers Roblox codes, map, money methods, weapons, cars, and jobs for faster TB3 progress on Roblox."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Roblox Open World Action RP",
+    "title": "Tha Bronx 3 Wiki",
+    "description": "Explore Tha Bronx 3 guides for Roblox players, including map routes, money methods, cars, weapons, jobs, updates, and beginner tips for faster TB3 progress.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "209M+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "30",
+        "label": "Max Players"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "11.9K",
+        "label": "7-Day Peak CCU"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "87.68%",
+        "label": "User Rating"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Dominate Tha Bronx 3?",
+    "description": "Join the Tha Bronx 3 community for guides, codes, money methods, and the latest Roblox updates!",
+    "joinCommunity": "Join the Community",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Tha Bronx 3 Wiki",
+    "description": "Your complete resource hub for Tha Bronx 3 codes, map, money methods, cars, weapons, jobs, and Roblox guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "robloxGame": "Roblox Game",
+    "robloxCommunity": "Roblox Community",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Tha Bronx 3 Wiki. Not affiliated with the developers of Tha Bronx 3 or Roblox Corporation.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
