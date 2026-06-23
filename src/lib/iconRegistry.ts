@@ -38,6 +38,16 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Clock: LucideIcons.Clock,
   X: LucideIcons.X,
 
+  // 首页工具卡片图标（THA BRONX 3）
+  Ticket: LucideIcons.Ticket,
+  Compass: LucideIcons.Compass,
+  Coins: LucideIcons.Coins,
+  Crosshair: LucideIcons.Crosshair,
+  ShoppingBag: LucideIcons.ShoppingBag,
+  MapPinned: LucideIcons.MapPinned,
+  Car: LucideIcons.Car,
+  Newspaper: LucideIcons.Newspaper,
+
   // 默认回退图标
   HelpCircle: LucideIcons.HelpCircle,
 }
