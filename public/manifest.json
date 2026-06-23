@@ -1,12 +1,14 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "THA BRONX 3 Wiki - Codes, Cars & City Survival Guide",
+  "short_name": "THA BRONX 3",
+  "description": "THA BRONX 3 Wiki covers codes, cars, weapons, locations, money making, and city survival tips for the open-world action roleplay game on Roblox.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
+  "theme_color": "#D11F35",
   "background_color": "#0a0a0a",
+  "categories": ["games", "entertainment"],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

@@ -85,7 +85,7 @@ export default function HomePageClient({
 }: HomePageClientProps) {
   const t = useMessages() as any;
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://www.lucidblocks.wiki";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://tha-bronx-3.wiki";
 
   // Structured data
   const structuredData = {
@@ -158,13 +158,13 @@ export default function HomePageClient({
       },
       {
         "@type": "VideoObject",
-        name: "LUCID BLOCKS | AVAILABLE NOW",
+        name: "I Went From RAGS TO RICHES in Roblox Tha Bronx 3",
         description:
-          "Official Lucid Blocks video featuring the Steam launch trailer and gameplay preview.",
-        uploadDate: "2026-03-12",
+          "Gameplay video for THA BRONX 3, the open-world action roleplay game on Roblox, showcasing rags-to-riches city survival, cars, and progression.",
+        uploadDate: "2025-04-18",
         thumbnailUrl: `${siteUrl}/images/hero.webp`,
-        embedUrl: "https://www.youtube.com/embed/7C7fybRM_No",
-        url: "https://www.youtube.com/watch?v=7C7fybRM_No",
+        embedUrl: "https://www.youtube.com/embed/3pl_f768FeY",
+        url: "https://www.youtube.com/watch?v=3pl_f768FeY",
       },
     ],
   };
@@ -276,11 +276,11 @@ export default function HomePageClient({
 
       {/* Video Section */}
       <section className="px-4 py-10 md:py-12">
-        <div className="scroll-reveal container mx-auto max-w-5xl">
+        <div className="scroll-reveal container mx-auto max-w-6xl">
           <div className="relative overflow-hidden rounded-2xl">
             <VideoFeature
-              videoId="7C7fybRM_No"
-              title="LUCID BLOCKS | AVAILABLE NOW"
+              videoId="3pl_f768FeY"
+              title="I Went From RAGS TO RICHES in Roblox Tha Bronx 3"
             />
           </div>
         </div>
