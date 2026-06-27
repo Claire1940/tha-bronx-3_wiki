@@ -1,0 +1,147 @@
+import { Map, Swords, Target, Shield, Sparkles, Trophy } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Tha Bronx 3 Ammo: Survival & Resource Management Guide",
+  description: "Master resource management in Tha Bronx 3. Learn how to secure ammo, manage storage, and optimize your loadout for survival in the city.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/881337/fff?text=Tha+Bronx+3+Survival",
+  date: "2026-06-28",
+  author: "tha bronx 3 Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Tha Bronx 3 ammo** management is critical for survival in high-risk zones.
+- Prioritize **storage upgrades** like Safe Space and Backpacks to protect your resources.
+- Use **official in-game shops** to acquire weapons and supplies safely.
+- Avoid third-party script sites that promise free items or unlimited cash.
+- Focus on **practical grinding routes** to fund your combat and ammo needs.
+</Callout>
+
+<Section icon={Target} title="Understanding Resource Management">
+
+Survival in Tha Bronx 3 requires more than just raw combat skill; it demands disciplined resource management. Players often overlook the cost of maintaining their loadout, focusing only on high-end weapons while neglecting the storage and ammo logistics required for long-term success.
+
+**Video Highlights:**
+- Identifying core city locations for supplies
+- Efficient looting routes for early-game income
+- Strategies for protecting your earned cash and items
+
+<YouTubeEmbed videoId="YEb_q0CLTZo" title="Tha Bronx 3 Gameplay Overview" />
+
+Effective resource management begins with understanding the city's economy. Players should view their inventory as a limited asset. Carrying too much cash or unprotected gear makes you a prime target. Always prioritize securing your funds before engaging in high-risk activities.
+
+<Callout type="tip" title="Strategic Advice">
+Never carry your entire wealth on your character. Use the Bank to deposit funds regularly and invest in Safe Space gamepasses to protect essential items from death-related loss.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Weapon and Ammo Logistics">
+
+Combat in Tha Bronx 3 is expensive. Every encounter consumes resources, making it vital to choose your loadout based on the situation. Below is a breakdown of how to categorize your gear for better efficiency.
+
+| Category | Role | Priority | Resource Focus |
+| :--- | :--- | :--- | :--- |
+| Sidearms | Close-range defense | High | Ammo efficiency |
+| Rifles | Mid-to-long range | Medium | High capacity |
+| Utility | Storage & Survival | Essential | Protection |
+| Vehicles | Tactical movement | Medium | Trunk storage |
+
+<CardGrid cols={3}>
+  <Card title="Ammo Discipline">
+    - Avoid unnecessary spray
+    - Reload in safe zones
+    - Carry backup sidearms
+  </Card>
+  <Card title="Storage Upgrades">
+    - Extra Wallet Space
+    - Extra Safe Space
+    - Increased Trunk capacity
+  </Card>
+  <Card title="Combat Safety">
+    - Know your escape routes
+    - Use cover effectively
+    - Don't fight for free
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Combat Warning">
+High-end weapons offer better performance but come with higher risks. If you are a beginner, focus on mastering the movement and map layout before investing in expensive combat gear that you cannot afford to lose.
+</Callout>
+
+</Section>
+
+<Section icon={Map} title="Optimal Grinding Routes">
+
+To keep your ammo reserves full, you need a steady stream of income. The most successful players follow specific loops that balance time investment with financial reward.
+
+<Steps>
+  <Step num="1" title="Initial Assessment">
+    Spawn in and check your current cash. Visit the nearest safe shop to stock up on basic supplies and food.
+  </Step>
+  <Step num="2" title="Job Completion">
+    Engage in entry-level jobs like the Mop Job to build a safe, low-risk capital base.
+  </Step>
+  <Step num="3" title="Looting Execution">
+    Move to known looting zones only after securing your previous earnings at the Bank.
+  </Step>
+  <Step num="4" title="Resource Banking">
+    Return to the Bank or your Safe storage immediately after completing a route to protect your gains.
+  </Step>
+</Steps>
+
+| Method | Risk Level | Best For | Requirement |
+| :--- | :--- | :--- | :--- |
+| Mop Job | Low | Early-game cash | None |
+| Looting | Medium | Fast income | Bag space |
+| Bank Robbery | High | Large payouts | Combat gear |
+
+</Section>
+
+<Section icon={Shield} title="Protecting Your Assets">
+
+Security is the backbone of progression in Tha Bronx 3. Whether it is ammo, cash, or specialized tools, losing your inventory sets you back significantly. Use the following checklist to ensure you are playing defensively.
+
+<Checklist
+  id="security-checklist"
+  title="Asset Protection Checklist:"
+  items={[
+    "Deposit cash at the Bank every 10 minutes",
+    "Purchase Extra Safe Space to store backup weapons",
+    "Avoid high-traffic danger zones when carrying loot",
+    "Check official store links for legitimate storage upgrades",
+    "Never share your account details for 'cash drops'"
+  ]}
+/>
+
+<Callout type="success" title="Smart Investing">
+Investing in utility gamepasses like Extra Wallet Space or Extra BackPack provides a permanent advantage that pays for itself over time by allowing you to grind longer without returning to base.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "Is there a specific code for free ammo in Tha Bronx 3?",
+    answer: "Currently, there are no official redeem codes for free ammo. Beware of third-party sites claiming to offer free resources, as these are often scams."
+  },
+  {
+    question: "How can I carry more ammo?",
+    answer: "You can increase your carrying capacity by purchasing the Extra BackPack gamepass from the official Roblox store tab."
+  },
+  {
+    question: "What is the safest way to store gear?",
+    answer: "The safest way to store gear is by using the Safe storage system and depositing excess cash into the Bank regularly."
+  }
+]} />
+
+</Section>
