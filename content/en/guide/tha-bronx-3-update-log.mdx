@@ -1,0 +1,134 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "tha bronx 3 update log: New Features & Changes Guide",
+  description: "Explore the latest updates in tha bronx 3, featuring new car models, weapon attachments, combat mechanics, and gameplay balancing changes.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Tha+Bronx+3+Update",
+  date: "2026-07-01",
+  author: "tha bronx 3 Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- The **tha bronx 3 update log** introduces significant changes to vehicle variety and weapon customization.
+- Players can now experience **improved combat mechanics** with reduced recoil and new fighting options.
+- The map has been updated with **snow removal** in key areas to enhance performance and aesthetics.
+- New **luxury watches** and interactive dice games offer more ways to spend and engage in-game.
+</Callout>
+
+<Section icon={Map} title="Update Overview and Vehicle Additions">
+
+The latest version of the game brings a fresh wave of content aimed at improving both the aesthetic and functional aspects of the city. Most notably, the map has undergone a transition as the winter season concludes, with snow being removed from major areas to reduce lag and improve visual clarity.
+
+**Video Highlights:**
+- Detailed showcase of the 2024 Ford Mustang GT and widebody Scat Pack.
+- Demonstrations of weapon recoil adjustments and new switch attachments.
+- Overview of the updated fighting mechanics and interactive dice game.
+
+<YouTubeEmbed videoId="9UbWopOfO4o" title="Showcasing The NEW SPRING UPDATE In Tha Bronx 3 Roblox!" />
+
+The vehicle dealership has expanded its inventory to include high-performance models. These additions prioritize handling and visual fidelity, providing players with more options for cruising the city.
+
+| Vehicle Model | Price | Key Features |
+| :--- | :--- | :--- |
+| 2024 Ford Mustang GT | 80k | High rev sound, improved handling |
+| Widebody Scat Pack | 70k | Superior color rendering, Dodge-style design |
+
+<Callout type="tip" title="Pro Tip">
+When testing the new vehicles, prioritize the 2024 Ford Mustang GT if you prefer responsive steering, as the handling physics have been refined in this update.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Weapon Customization and Combat Changes">
+
+Combat in the game has received a major overhaul. The most impactful change is the significant reduction in weapon recoil, which makes aiming more consistent and rewarding for all skill levels. Additionally, new tactical attachments have been added to diversify loadouts.
+
+| Weapon/Attachment | Cost/Requirement | Effect |
+| :--- | :--- | :--- |
+| 60-Round Hell Pup | 500 Robux | Extended magazine, high capacity |
+| P80 Blue Switch | Game Pass | Tactical blue beam, 28-shot capacity |
+| Pink Switch | Game Pass | Compact design, 28-shot capacity |
+| M&P Drum | 10k | Rapid fire, 50-round capacity |
+
+<Callout type="warning" title="Important Notice">
+Some weapon game passes may require a stable connection to purchase. If a transaction fails, verify your account balance before attempting a second purchase to avoid redundant charges.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="New Combat and Social Mechanics">
+
+Beyond weapons and cars, the update introduces a deeper interaction system. The new fighting mechanic allows for more dynamic brawls, featuring heavy punches with cooldowns to ensure balanced encounters.
+
+<Steps>
+  <Step num="1" title="Engage in Combat">
+    Approach a player and initiate a challenge to enter the fighting mode.
+  </Step>
+  <Step num="2" title="Manage Stamina">
+    Monitor the cooldown bar on the left side of your screen when using heavy punches.
+  </Step>
+  <Step num="3" title="Execute Finishers">
+    Use the down-punch mechanic when an opponent is knocked to the ground to finish the fight.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Social Feature">
+You can now play dice games at any local gas station. Simply hold the item, click the screen to shake, and reveal your numbers to settle bets with other players.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Luxury Items and Progression">
+
+The update also caters to players looking to showcase their wealth. New accessories like the Serpent watches have been introduced, providing a way to further customize character appearances.
+
+<CardGrid cols={3}>
+  <Card title="Red Serpent Watch">
+    - Cost: 850k
+    - Unique colorway
+    - High-end accessory status
+  </Card>
+  <Card title="White Serpent Watch">
+    - Cost: 850k
+    - Matches custom bags
+    - Premium aesthetic
+  </Card>
+  <Card title="Custom Gear">
+    - Matches vehicle themes
+    - Enhances player status
+    - Available at the ice box
+  </Card>
+</CardGrid>
+
+<Callout type="info" title="Economy Tip">
+Ensure you have sufficient funds in your bank before visiting the luxury store. With items priced at 850k, it is recommended to farm efficiently using the new cooking spots or card methods before shopping.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "How do I find the new pink switch in tha bronx 3?",
+    answer: "The pink switch is listed under the Glock 29 button in the gun store. It functions similarly to the P80 switch with a 28-round capacity."
+  },
+  {
+    question: "Has the recoil system changed permanently?",
+    answer: "Yes, the developers have reduced the basic recoil for most weapons to improve the overall shooting experience and consistency."
+  },
+  {
+    question: "Where can I play the dice game?",
+    answer: "The dice game is available at any gas station or deli across the map. Simply hold the dice and click to interact."
+  }
+]} />
+
+</Section>
